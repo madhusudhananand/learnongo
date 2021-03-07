@@ -19,3 +19,5 @@ require("stylesheets/application.scss")
 
 // just installed fontawesome using yarn, but got to apply the css needed for fontawesome for rails by importing it here
 import "@fortawesome/fontawesome-free/css/all"
+require("trix")
+require("@rails/actiontext")
